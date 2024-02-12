@@ -1,6 +1,6 @@
 # Stayhealthy
 
-Stay healthy is a website that provides simple tasks a person can do to have a healthy lifestyle  
+Stay healthy is a website that provides simple tasks a person can do to have a healthy lifestyle.  
 It's a project i did to enhance my html & css skills.
 
 

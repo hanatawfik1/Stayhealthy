@@ -1,0 +1,61 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    background-color: rgb(228, 255, 255);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    min-height: 100vp;
+    width: 420px;
+
+}
+.container{
+    position: relative;
+    margin-left: 100%;
+} 
+.card{
+    background-color: white;
+    min-height: 500px;
+    border-radius: 20px;
+    margin-top: 25px;
+    box-shadow: 1px 3px 4px black;
+}
+
+img{
+    border-radius: 20px;
+    height:45%;
+    width:97%;
+    margin-left: 1.5%;
+    margin-top: 1.5%;
+    box-shadow: 1px 3px 10px grey;
+}
+.text{
+    text-align: center;
+}
+.featureName{
+    margin-top: 30px;
+    font-size: xx-large;
+}
+.viewTasks{
+    margin-top: 60px;
+    width: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 300;
+    border-radius: 15px;
+    border: none;
+    padding: 10px;
+    background-color: rgb(195, 255, 255);
+    color: black;
+}
+.viewTasks:hover{
+    font-weight: 500;
+    box-shadow: 1px 3px 5px grey;
+    color: rgb(139, 35, 35);
+}
+.card:hover{
+    box-shadow: 1px 3px 8px black;
+}
